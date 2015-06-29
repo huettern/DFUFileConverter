@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1421838660 source:c:\users\mmeznhu\documents\tmp\dfufileconverter\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<unistd.h>
+	"dfu_write.h"
+	"cintelhex.h"
+
+1421824664 source:c:\users\mmeznhu\documents\tmp\dfufileconverter\src\dfu_write.c
+	<stdint.h>
+	<stdlib.h>
+	<string.h>
+	"../include/dfu_write.h"
+
+1421825091 c:\users\mmeznhu\documents\tmp\dfufileconverter\include\dfu_write.h
+	<stdint.h>
+
+1421830673 c:\users\mmeznhu\documents\tmp\dfufileconverter\dfu_write.h
+	<stdint.h>
+
+1421834064 source:c:\users\mmeznhu\documents\tmp\dfufileconverter\dfu_write.cpp
+	<stdint.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<fstream>
+	"dfu_write.h"
+
+1421652251 source:c:\users\mmeznhu\documents\tmp\dfufileconverter\ihex_copy.c
+	"cintelhex.h"
+	<stdio.h>
+	<string.h>
+
+1421648215 c:\users\mmeznhu\documents\tmp\dfufileconverter\cintelhex.h
+	<stdlib.h>
+	<stdint.h>
+
+1421652504 source:c:\users\mmeznhu\documents\tmp\dfufileconverter\ihex_parse.c
+	"cintelhex.h"
+	<stdio.h>
+	<fcntl.h>
+	<unistd.h>
+	<string.h>
+	<sys/stat.h>
+	<sys/mman.h>
+
+1421648215 source:c:\users\mmeznhu\documents\tmp\dfufileconverter\ihex_record.c
+	"cintelhex.h"
+	<stdio.h>
+
